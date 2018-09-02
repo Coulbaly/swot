@@ -19,6 +19,7 @@ If you did not contribute to this repository before, please read the repository 
         [-] edu
             [+] harvard
             [+] stanford
+            [+] supdeco
         [-] uk
             [-] ac
                 [+] strath
